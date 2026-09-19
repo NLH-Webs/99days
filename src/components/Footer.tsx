@@ -15,7 +15,7 @@ const Footer = () => {
           </a>
         </p>
         <div className="mt-6 text-sm text-gray-500">
-          &copy; 2024 NhiLe Foundation. All rights reserved.
+          &copy; {new Date().getFullYear()} NhiLe Team · 99 Days with NhiLe. All rights reserved.
         </div>
       </div>
     </footer>
