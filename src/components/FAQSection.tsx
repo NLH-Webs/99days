@@ -128,7 +128,7 @@ const faqSections = [
           "Và phần thưởng đặc biệt: Khóa học “Là Chính Mình”, minh chứng cho hành trình trưởng thành.",
         ],
         closing:
-          "Sứ mệnh khóa học “Là Chính Mình”: Giúp bạn khám phá và chữa lành bản thân, xây dựng lối sống cân bằng, phát triển toàn diện về thể chất – tinh thần – cảm xúc. Xem thêm tại: https://nedu.nhi.sg/program-offline/la-chinh-minh/",
+          "Sứ mệnh khóa học “Là Chính Mình”: Giúp bạn khám phá và chữa lành bản thân, xây dựng lối sống cân bằng, phát triển toàn diện về thể chất – tinh thần – cảm xúc. Xem thêm tại: https://nedu.vn/",
       },
     ],
   },
