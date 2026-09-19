@@ -22,6 +22,9 @@ const Index = () => {
         <GallerySection />
         <RegistrationSection />
         <FAQSection />
+        <section className="nlh-lead" id="lien-he">
+          <nlh-contact site="99days" lang="vi" topics="Tham gia 99 Days with NhiLe|Hỏi về chương trình|Hợp tác – tài trợ" />
+        </section>
       </main>
       <Footer />
     </div>
