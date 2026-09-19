@@ -23,7 +23,7 @@ const Index = () => {
         <RegistrationSection />
         <FAQSection />
         <section className="nlh-lead" id="lien-he">
-          <nlh-contact site="99days" lang="vi" topics="Tham gia 99 Days with NhiLe|Hỏi về chương trình|Hợp tác – tài trợ" />
+          <nlh-contact site="99days" topics-vi="Tham gia 99 Days with NhiLe|Hỏi về chương trình|Hợp tác – tài trợ" topics-en="Join 99 Days with NhiLe|Questions about the programme|Partnership or sponsorship" />
         </section>
       </main>
       <Footer />
